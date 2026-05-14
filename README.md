@@ -43,10 +43,6 @@ Probably overthinking the workflow architecture.
 - Marketing automation infrastructure
 - Better ways to turn client work into repeatable systems
 
-## GitHub activity
-
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkwillsp-blip&show_icons=true&hide_border=true&theme=transparent)
-
 ## Connect
 
 - Website: [Luminous Creative Consultants](https://luminousconsultants.com)
